@@ -1,5 +1,8 @@
 # Model-Parallelization-Tensorflow
 
-Run Chief,
+Run Chief
+
 Run Workers each in separate Notebook
-Evaluate Data
+
+Evaluate Data 
+
